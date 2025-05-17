@@ -8,3 +8,8 @@ This folder documents my practical experience applying Python to healthcare, ins
 - Select the cell + `M` to change a code cell to markdown cell, 
 - Press `D` two times to delete any cell 
 - Press `H` if you want help with more shortcuts
+Note: You must be in command mode for shortcuts like A, B, M, and D to work — that means the cell is not actively being edited (you'll see a blue border, not green).
+
+💡 How to enter command mode
+Press Esc while in a cell. You’ll see the border turn blue.
+Now your keyboard shortcuts like A, B, M, and D will work.
