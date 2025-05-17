@@ -1,1 +1,1 @@
-## This folder documents my practical experience applying Python to healthcare, inspired by my training at Standard Data Ocean. It explores how state-of-the-art techniques can be used to solve real-world health challenges.
+### This folder documents my practical experience applying Python to healthcare, inspired by my training at Standard Data Ocean. It explores how state-of-the-art techniques can be used to solve real-world health challenges.
